@@ -33,7 +33,7 @@ Your next step will be to follow these instructions:
 6. MailHog doesn't require installation as it is a standalone local SMTP server. You can simply place the executable file wherever you prefer.
 
 ### Installation
-1. Download or clone the project repository to your local machine using `git clone https://github.com/Fluffy777/universe.git .` (where `.` will be your current folder).
+1. Download or clone the project repository to your local machine using `git clone https://github.com/artem2354/blogify.git .` (where `.` will be your current folder).
 2. Open a command shell from the root folder of the project.
 3. Run the following command to generate an SQLite database in the project folder: `make migrate`
 4. Build the project by running the following command: `make`
